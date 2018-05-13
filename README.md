@@ -1,0 +1,2 @@
+# Airport-Management-System
+The airport business is a very heavy investment business. A large amount of money is at stake in this kind of a business and the large expanse of details and data required in this venture can be quite daunting to maintain.  Hence we have come up with this airport management system portal. This provides some amount of automation in airport management and help airport system in making their business more  efficient.  We aim at providing a comfortable and attractive UI for the daily operational tasks that an airline company  faces.
