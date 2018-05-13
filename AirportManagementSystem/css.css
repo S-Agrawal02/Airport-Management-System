@@ -1,0 +1,108 @@
+body{
+	background-size:cover;
+	background-image: url("bg.jpg");
+	color: rgba(225, 225, 225, 0);
+}
+#navlist{
+	font-size: 25;
+	height: 40px;
+	width: 100%;
+	background: rgba(225, 225, 225, 0.1);
+}
+#navlist ul li{
+	list-style: none;
+	display: inline;
+	height: 40px;
+	margin: 45px;
+    padding: 0;
+    overflow: hidden;
+}
+#navlist a{
+	color: rgb(211, 211, 211);
+	text-decoration: none;
+}
+
+#navlist ul li a:hover{
+	background: rgba(225, 225, 225, 0.2);
+	height: 40px;
+}
+
+
+h1{
+	color: white;
+	text-align: center;
+	font-size: 40;
+	font-family: Georgia, serif;
+}
+th{text-align:center;
+	background-color: rgb(128, 128, 255);
+	color:black;
+	font-family: arial-black;
+	font-size:20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	}
+td{text-align:center;
+	color:white;
+	font-size:15px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	}
+label{
+	font-size: 20px;
+	color:rgba(225, 225, 225, 2);
+}
+h2, h3, p, legend{text-align:center;
+	color:rgb(226, 226, 226);
+	font-size: 30px;
+	text-decoration: underline;
+   }
+ p{
+	 text-decoration: none;
+ }
+legend{
+	text-decoration: none;
+}
+input[type=submit],#backbutton,button{border: 1px solid white;
+		outline:0;
+		width: 200px;
+		padding:2%;
+		background: rgba(255,255,255,0.5);
+		font-size: 20px;
+		border-radius: 10px;
+}
+input[type=submit]{
+	padding:2px;
+	border-radius: 5px;
+}
+#backbutton{
+	margin-top: 10px;
+	padding:10px;
+	font-size:25px;
+	padding-left:5px;
+	padding-right:5px;
+	border-radius: 5px;
+	margin-left: 30%;
+}
+form{
+	margin-left:15px;
+	text-align: left;
+}
+formbutton{
+	width: 200px;
+	padding: 5px;
+}
+fieldset{
+	margin-right: 35%;
+	margin-left: 10%;
+}
+
+#active{
+	background: rgba(225, 225, 225, 0.2);
+	padding-bottom: 10px;
+	height: 40px;
+}
